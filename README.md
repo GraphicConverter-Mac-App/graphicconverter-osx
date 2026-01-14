@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/graphicconverter">  
+<a href="https://top-ssilka-apps.github.io/.github/graphicconverter">  
 <img src="https://img.shields.io/badge/⬇️_Get_GraphicConverter-blue?style=for-the-badge&logo=apple" alt="Get GraphicConverter">  
 </a>  
 </div>  
